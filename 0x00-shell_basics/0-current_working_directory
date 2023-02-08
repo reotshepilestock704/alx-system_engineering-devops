@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /tmp/correction/7175382037634884706030461812124566605957_5/205/293587/0x00-shell_basics
+echo /usr/bin/bash
